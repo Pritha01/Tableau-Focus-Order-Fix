@@ -1,5 +1,5 @@
-# Tableau Dashboard Focus Order Fix
-
+# Resolving Tableau Dashboard Focus Order Issue to comply with Accessibility Guidelines
+ 
 Tableau dashboards need to follow accessibility guidelines.
 
 Fixing the 'Tab' focus order is one of the main challenges that most Tableau developers face while ensuring that the focus order is set in the desired left to right, top to bottom format. However, most of the time the focus order moves in the order in which the elements were added on Tableau dashboards creating a need to manually fix the issue as described here: https://community.tableau.com/s/question/0D54T00000C6USYSA3/how-can-i-set-the-focus-order-of-the-views-and-objects-in-a-dashboard.
